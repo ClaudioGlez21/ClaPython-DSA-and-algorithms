@@ -1,1 +1,1 @@
-# ClaPython-DSA-and-algorithms
+# Python-DSA-and-algorithms

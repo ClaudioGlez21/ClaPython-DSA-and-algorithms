@@ -33,6 +33,6 @@ class LinkedList:
             temp=temp.next
 
 mylinkedlist = LinkedList(7)
-print(mylinkedlist.length)
-print(mylinkedlist.head.value)
+mylinkedlist.append(2)
+print(mylinkedlist.print_list())
 
